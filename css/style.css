@@ -53,3 +53,8 @@ font-size: 25px;
 .paragraph{
   font-style: italic;
 }
+.text-design {
+  text-decoration: underline;
+  color: var(--tertiary-color);
+  
+}
